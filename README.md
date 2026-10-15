@@ -22,10 +22,14 @@ Load a file from the CDN: `https://cdn.jsdelivr.net/gh/billbisco/swccg-card-art@
 - **Source scan.** Decipher's 350 px scans (as served by the Players Committee). For cards the Committee has
   re-rendered with errata, the printed face is used instead (the wiki's Decipher-archive copy, or the Committee's
   2021 2× enlargement of the same scan), because the re-renders regrade and reframe the art.
+- **Normalise.** Each scan is reduced to the card itself at 350×490 (490×350 landscape), so 2× copies and bordered
+  archive copies match the plain scans.
 - **Window.** Cards are grouped by frame (side, card type, character class, era, orientation). Each scan is aligned
   to a reference scan of its group (OpenCV ECC, affine); the art window is where the aligned scans differ (the
-  frame is identical, the art is not). The window is then mapped back into every scan. Systems are full-art cards
-  and keep the whole card. Scans that do not align, and special layouts (Admiral's Orders, Epic Events, Jedi Tests),
+  frame is identical, the art is not). The window is then mapped back into every scan. Systems are full-art cards:
+  the picture is cut between their two bars. Every crop is trimmed 3 px inside the window; leftover keylines and frame
+  bands at an edge are peeled off. Windows that are not rectangles (Objective cut corners, Reflections II combo rounded
+  corners) keep their shape: the frame's corners are transparent in `orig/` and `x4/`. Scans that do not align, and special layouts (Admiral's Orders, Epic Events, Jedi Tests),
   are marked in the manifest instead of being guessed.
 - **Upscale.** RealESRGAN x4plus (the `realesrgan-x4plus` ncnn model) run with upscayl-bin on an NVIDIA GPU, saved
   as WebP quality 92. Re-running a better upscaler later only replaces `x4/`.
