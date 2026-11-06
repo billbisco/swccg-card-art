@@ -646,10 +646,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -662,7 +662,7 @@
    "orig": "original/orig/15_20.png",
    "x4": null,
    "align_cc": 0.482,
-   "edge_flat": 0.089
+   "edge_flat": 0.35
   },
   "15_21": {
    "title": "Ackbar's Assault Plan",
@@ -712,10 +712,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -844,10 +844,10 @@
     447
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -860,7 +860,7 @@
    "orig": "original/orig/15_26.png",
    "x4": null,
    "align_cc": 0.729,
-   "edge_flat": 0.038
+   "edge_flat": 0.026
   },
   "15_27": {
    "title": "Close Air Support",
@@ -877,10 +877,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -893,7 +893,7 @@
    "orig": "original/orig/15_27.png",
    "x4": null,
    "align_cc": 0.815,
-   "edge_flat": 0.055
+   "edge_flat": 0.035
   },
   "15_28": {
    "title": "Close Air Support & Commando Training",
@@ -1009,10 +1009,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1025,7 +1025,7 @@
    "orig": "original/orig/15_31.png",
    "x4": null,
    "align_cc": 0.479,
-   "edge_flat": 0.201
+   "edge_flat": 0.362
   },
   "15_32": {
    "title": "Credits Will Do Fine & We're Leaving",
@@ -1075,10 +1075,10 @@
     447
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1091,7 +1091,7 @@
    "orig": "original/orig/15_33.png",
    "x4": null,
    "align_cc": 0.5,
-   "edge_flat": 0.326
+   "edge_flat": 0.303
   },
   "15_34": {
    "title": "Hiding In The Garbage",
@@ -1108,10 +1108,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1124,7 +1124,7 @@
    "orig": "original/orig/15_34.png",
    "x4": null,
    "align_cc": 0.736,
-   "edge_flat": 0.042
+   "edge_flat": 0.252
   },
   "15_35": {
    "title": "I Hope She's All Right",
@@ -1141,10 +1141,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1157,7 +1157,7 @@
    "orig": "original/orig/15_35.png",
    "x4": null,
    "align_cc": 0.513,
-   "edge_flat": 0.001
+   "edge_flat": 0.009
   },
   "15_36": {
    "title": "I Must Be Allowed To Speak",
@@ -1174,10 +1174,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1190,7 +1190,7 @@
    "orig": "original/orig/15_36.png",
    "x4": null,
    "align_cc": 0.632,
-   "edge_flat": 0.014
+   "edge_flat": 0.013
   },
   "15_37": {
    "title": "I Must Be Allowed To Speak & Goo Nee Tay",
@@ -1405,10 +1405,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1421,7 +1421,7 @@
    "orig": "original/orig/15_43.png",
    "x4": null,
    "align_cc": 0.797,
-   "edge_flat": 0.095
+   "edge_flat": 0.113
   },
   "15_44": {
    "title": "Looking To The Future",
@@ -1570,10 +1570,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1586,7 +1586,7 @@
    "orig": "original/orig/15_48.png",
    "x4": null,
    "align_cc": 0.874,
-   "edge_flat": 0.077
+   "edge_flat": 0.288
   },
   "15_49": {
    "title": "Scramble",
@@ -1603,10 +1603,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1619,7 +1619,7 @@
    "orig": "original/orig/15_49.png",
    "x4": null,
    "align_cc": 0.851,
-   "edge_flat": 0.08
+   "edge_flat": 0.047
   },
   "15_50": {
    "title": "Scramble & Hiding In The Garbage",
@@ -1801,10 +1801,10 @@
     436
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
@@ -1817,7 +1817,7 @@
    "orig": "original/orig/15_55.png",
    "x4": null,
    "align_cc": 0.471,
-   "edge_flat": 0.014
+   "edge_flat": 0.009
   },
   "15_56": {
    "title": "Traffic Control & Crash Site Memorial",
@@ -1933,10 +1933,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -1949,7 +1949,7 @@
    "orig": "original/orig/15_59.png",
    "x4": null,
    "align_cc": 0.652,
-   "edge_flat": 0.113
+   "edge_flat": 0.374
   },
   "15_60": {
    "title": "A Few Maneuvers & Han's Dice",
@@ -1999,10 +1999,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2015,7 +2015,7 @@
    "orig": "original/orig/15_61.png",
    "x4": null,
    "align_cc": 0.799,
-   "edge_flat": 0.043
+   "edge_flat": 0.04
   },
   "15_62": {
    "title": "Armed And Dangerous & Ambush",
@@ -2065,10 +2065,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2081,7 +2081,7 @@
    "orig": "original/orig/15_63.png",
    "x4": null,
    "align_cc": 0.785,
-   "edge_flat": 0.068
+   "edge_flat": 0.279
   },
   "15_64": {
    "title": "Away Put Your Weapon & Put That Down",
@@ -2197,10 +2197,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2296,10 +2296,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2312,7 +2312,7 @@
    "orig": "original/orig/15_70.png",
    "x4": null,
    "align_cc": 0.782,
-   "edge_flat": 0.132
+   "edge_flat": 0.184
   },
   "15_71": {
    "title": "Clinging To The Edge",
@@ -2395,10 +2395,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2411,7 +2411,7 @@
    "orig": "original/orig/15_73.png",
    "x4": null,
    "align_cc": 0.718,
-   "edge_flat": 0.122
+   "edge_flat": 0.378
   },
   "15_74": {
    "title": "Droid Overboard",
@@ -2527,10 +2527,10 @@
     447
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2543,7 +2543,7 @@
    "orig": "original/orig/15_77.png",
    "x4": null,
    "align_cc": 0.851,
-   "edge_flat": 0.011
+   "edge_flat": 0.012
   },
   "15_78": {
    "title": "Eventually You'll Lose",
@@ -2560,10 +2560,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2576,7 +2576,7 @@
    "orig": "original/orig/15_78.png",
    "x4": null,
    "align_cc": 0.812,
-   "edge_flat": 0.023
+   "edge_flat": 0.074
   },
   "15_79": {
    "title": "False Past",
@@ -2659,10 +2659,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2675,7 +2675,7 @@
    "orig": "original/orig/15_81.png",
    "x4": null,
    "align_cc": 0.744,
-   "edge_flat": 0.006
+   "edge_flat": 0.016
   },
   "15_82": {
    "title": "Gift Of The Mentor & Skywalkers",
@@ -2725,10 +2725,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2741,7 +2741,7 @@
    "orig": "original/orig/15_83.png",
    "x4": null,
    "align_cc": 0.789,
-   "edge_flat": 0.002
+   "edge_flat": 0.001
   },
   "15_84": {
    "title": "Han's Back & Leia's Back",
@@ -2824,10 +2824,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2840,7 +2840,7 @@
    "orig": "original/orig/15_86.png",
    "x4": null,
    "align_cc": 0.796,
-   "edge_flat": 0.01
+   "edge_flat": 0.015
   },
   "15_87": {
    "title": "Hyper Escape",
@@ -2857,10 +2857,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2873,7 +2873,7 @@
    "orig": "original/orig/15_87.png",
    "x4": null,
    "align_cc": 0.694,
-   "edge_flat": 0.008
+   "edge_flat": 0.012
   },
   "15_88": {
    "title": "I Have A Really Bad Feeling About This",
@@ -2890,10 +2890,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2906,7 +2906,7 @@
    "orig": "original/orig/15_88.png",
    "x4": null,
    "align_cc": 0.815,
-   "edge_flat": 0.008
+   "edge_flat": 0.007
   },
   "15_89": {
    "title": "I Used To Live Here, You Know?",
@@ -2956,10 +2956,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -2972,7 +2972,7 @@
    "orig": "original/orig/15_90.png",
    "x4": null,
    "align_cc": 0.942,
-   "edge_flat": 0.067
+   "edge_flat": 0.061
   },
   "15_91": {
    "title": "Insertion Planning",
@@ -2989,10 +2989,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3005,7 +3005,7 @@
    "orig": "original/orig/15_91.png",
    "x4": null,
    "align_cc": 0.658,
-   "edge_flat": 0.009
+   "edge_flat": 0.028
   },
   "15_92": {
    "title": "Insertion Planning & Critical Error Revealed",
@@ -3088,10 +3088,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3104,7 +3104,7 @@
    "orig": "original/orig/15_94.png",
    "x4": null,
    "align_cc": 0.9,
-   "edge_flat": 0.003
+   "edge_flat": 0.016
   },
   "15_95": {
    "title": "Jedi Tactics",
@@ -3220,10 +3220,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3236,7 +3236,7 @@
    "orig": "original/orig/15_98.png",
    "x4": null,
    "align_cc": 0.557,
-   "edge_flat": 0.003
+   "edge_flat": 0.256
   },
   "15_99": {
    "title": "Losing Track & A Step Backwards",
@@ -3352,10 +3352,10 @@
     447
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3368,7 +3368,7 @@
    "orig": "original/orig/15_102.png",
    "x4": null,
    "align_cc": 0.807,
-   "edge_flat": 0.002
+   "edge_flat": 0.0
   },
   "15_103": {
    "title": "Mindful Of The Future & Inconsequential Barriers",
@@ -3517,10 +3517,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3533,7 +3533,7 @@
    "orig": "original/orig/15_107.png",
    "x4": null,
    "align_cc": 0.613,
-   "edge_flat": 0.003
+   "edge_flat": 0.011
   },
   "15_108": {
    "title": "Neck And Neck",
@@ -3550,10 +3550,10 @@
     447
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3566,7 +3566,7 @@
    "orig": "original/orig/15_108.png",
    "x4": null,
    "align_cc": 0.886,
-   "edge_flat": 0.04
+   "edge_flat": 0.073
   },
   "15_109": {
    "title": "Neck And Neck & Changing The Odds",
@@ -3616,10 +3616,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3632,7 +3632,7 @@
    "orig": "original/orig/15_110.png",
    "x4": null,
    "align_cc": 0.865,
-   "edge_flat": 0.04
+   "edge_flat": 0.033
   },
   "15_111": {
    "title": "Nice Of You Guys To Drop By & Visored Vision",
@@ -3682,10 +3682,10 @@
     447
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3698,7 +3698,7 @@
    "orig": "original/orig/15_112.png",
    "x4": null,
    "align_cc": 0.908,
-   "edge_flat": 0.024
+   "edge_flat": 0.021
   },
   "15_113": {
    "title": "No Giben Up, General Jar Jar & Gimme A Lift!",
@@ -3748,10 +3748,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3764,7 +3764,7 @@
    "orig": "original/orig/15_114.png",
    "x4": null,
    "align_cc": 0.778,
-   "edge_flat": 0.022
+   "edge_flat": 0.019
   },
   "15_115": {
    "title": "Old Ben & Noble Sacrifice",
@@ -3913,10 +3913,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -3929,7 +3929,7 @@
    "orig": "original/orig/15_119.png",
    "x4": null,
    "align_cc": 0.626,
-   "edge_flat": 0.042
+   "edge_flat": 0.202
   },
   "15_120": {
    "title": "Perimeter Scan & Under Attack",
@@ -4012,10 +4012,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4028,7 +4028,7 @@
    "orig": "original/orig/15_122.png",
    "x4": null,
    "align_cc": 0.763,
-   "edge_flat": 0.039
+   "edge_flat": 0.03
   },
   "15_123": {
    "title": "Rebel Leadership",
@@ -4045,10 +4045,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4111,10 +4111,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4127,7 +4127,7 @@
    "orig": "original/orig/15_125.png",
    "x4": null,
    "align_cc": 0.802,
-   "edge_flat": 0.043
+   "edge_flat": 0.052
   },
   "15_126": {
    "title": "Return Of A Jedi & Luke's Back",
@@ -4276,10 +4276,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4292,7 +4292,7 @@
    "orig": "original/orig/15_130.png",
    "x4": null,
    "align_cc": 0.832,
-   "edge_flat": 0.013
+   "edge_flat": 0.01
   },
   "15_131": {
    "title": "Smoke Screen & It's A Trap!",
@@ -4342,10 +4342,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4358,7 +4358,7 @@
    "orig": "original/orig/15_132.png",
    "x4": null,
    "align_cc": 0.644,
-   "edge_flat": 0.002
+   "edge_flat": 0.053
   },
   "15_133": {
    "title": "Speak With The Jedi Council & Vote Now!",
@@ -4441,10 +4441,10 @@
     1356
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4457,7 +4457,7 @@
    "orig": "original/orig/15_135.png",
    "x4": null,
    "align_cc": 0.718,
-   "edge_flat": 0.083
+   "edge_flat": 0.079
   },
   "15_136": {
    "title": "Strike Blocked",
@@ -4474,10 +4474,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4490,7 +4490,7 @@
    "orig": "original/orig/15_136.png",
    "x4": null,
    "align_cc": 0.847,
-   "edge_flat": 0.022
+   "edge_flat": 0.034
   },
   "15_137": {
    "title": "Taking On The Whole Empire By Myself",
@@ -4639,10 +4639,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4655,7 +4655,7 @@
    "orig": "original/orig/15_141.png",
    "x4": null,
    "align_cc": 0.79,
-   "edge_flat": 0.029
+   "edge_flat": 0.126
   },
   "15_142": {
    "title": "Under Attack",
@@ -4672,10 +4672,10 @@
     447
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4688,7 +4688,7 @@
    "orig": "original/orig/15_142.png",
    "x4": null,
    "align_cc": 0.806,
-   "edge_flat": 0.042
+   "edge_flat": 0.025
   },
   "15_143": {
    "title": "Vote Now!",
@@ -4705,10 +4705,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4721,7 +4721,7 @@
    "orig": "original/orig/15_143.png",
    "x4": null,
    "align_cc": 0.904,
-   "edge_flat": 0.007
+   "edge_flat": 0.006
   },
   "15_144": {
    "title": "Walker Sighting",
@@ -4738,10 +4738,10 @@
     446
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4771,10 +4771,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4787,7 +4787,7 @@
    "orig": "original/orig/15_145.png",
    "x4": null,
    "align_cc": 0.622,
-   "edge_flat": 0.134
+   "edge_flat": 0.111
   },
   "15_146": {
    "title": "We Don't Need Their Scum",
@@ -4804,10 +4804,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -4820,7 +4820,7 @@
    "orig": "original/orig/15_146.png",
    "x4": null,
    "align_cc": 0.839,
-   "edge_flat": 0.05
+   "edge_flat": 0.03
   },
   "15_147": {
    "title": "We Don't Want To Cause Any Trouble",
@@ -4870,10 +4870,10 @@
     447
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -5035,10 +5035,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
@@ -5051,7 +5051,7 @@
    "orig": "original/orig/15_153.png",
    "x4": null,
    "align_cc": 0.816,
-   "edge_flat": 0.021
+   "edge_flat": 0.027
   },
   "15_154": {
    "title": "You Will Take Me To Jabba Now & Strangle",
@@ -5596,10 +5596,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -5612,7 +5612,7 @@
    "orig": "original/orig/15_170.png",
    "x4": null,
    "align_cc": 0.647,
-   "edge_flat": 0.035
+   "edge_flat": 0.022
   },
   "15_171": {
    "title": "Aratech Corporation",
@@ -5629,10 +5629,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -5645,7 +5645,7 @@
    "orig": "original/orig/15_171.png",
    "x4": null,
    "align_cc": 0.671,
-   "edge_flat": 0.013
+   "edge_flat": 0.001
   },
   "15_172": {
    "title": "Back On Schedule",
@@ -5827,10 +5827,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -5843,7 +5843,7 @@
    "orig": "original/orig/15_177.png",
    "x4": null,
    "align_cc": 0.345,
-   "edge_flat": 0.042
+   "edge_flat": 0.14
   },
   "15_178": {
    "title": "Emperor's Power & Overseeing It Personally",
@@ -5959,10 +5959,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -5975,7 +5975,7 @@
    "orig": "original/orig/15_181.png",
    "x4": null,
    "align_cc": 0.648,
-   "edge_flat": 0.148
+   "edge_flat": 0.187
   },
   "15_182": {
    "title": "Flagship Operations",
@@ -5992,10 +5992,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6008,7 +6008,7 @@
    "orig": "original/orig/15_182.png",
    "x4": null,
    "align_cc": 0.528,
-   "edge_flat": 0.084
+   "edge_flat": 0.412
   },
   "15_183": {
    "title": "I Had No Choice",
@@ -6025,10 +6025,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6041,7 +6041,7 @@
    "orig": "original/orig/15_183.png",
    "x4": null,
    "align_cc": 0.849,
-   "edge_flat": 0.053
+   "edge_flat": 0.011
   },
   "15_184": {
    "title": "I Will Find Them Quickly Master",
@@ -6058,10 +6058,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6074,7 +6074,7 @@
    "orig": "original/orig/15_184.png",
    "x4": null,
    "align_cc": 0.916,
-   "edge_flat": 0.012
+   "edge_flat": 0.0
   },
   "15_185": {
    "title": "Imperial Compensation",
@@ -6190,10 +6190,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6206,7 +6206,7 @@
    "orig": "original/orig/15_188.png",
    "x4": null,
    "align_cc": 0.753,
-   "edge_flat": 0.035
+   "edge_flat": 0.221
   },
   "15_189": {
    "title": "Jabba's Droid Pool",
@@ -6421,10 +6421,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6437,7 +6437,7 @@
    "orig": "original/orig/15_195.png",
    "x4": null,
    "align_cc": 0.581,
-   "edge_flat": 0.115
+   "edge_flat": 0.073
   },
   "15_196": {
    "title": "Perfect Hibernation",
@@ -6520,10 +6520,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6536,7 +6536,7 @@
    "orig": "original/orig/15_198.png",
    "x4": null,
    "align_cc": 0.789,
-   "edge_flat": 0.048
+   "edge_flat": 0.142
   },
   "15_199": {
    "title": "Presence Of The Force & Dark Waters",
@@ -6619,10 +6619,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6635,7 +6635,7 @@
    "orig": "original/orig/15_201.png",
    "x4": null,
    "align_cc": 0.575,
-   "edge_flat": 0.074
+   "edge_flat": 0.293
   },
   "15_202": {
    "title": "Relentless Tracking",
@@ -6652,10 +6652,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6668,7 +6668,7 @@
    "orig": "original/orig/15_202.png",
    "x4": null,
    "align_cc": 0.717,
-   "edge_flat": 0.04
+   "edge_flat": 0.024
   },
   "15_203": {
    "title": "Responsibility Of Command",
@@ -6685,10 +6685,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6701,7 +6701,7 @@
    "orig": "original/orig/15_203.png",
    "x4": null,
    "align_cc": 0.761,
-   "edge_flat": 0.027
+   "edge_flat": 0.016
   },
   "15_204": {
    "title": "Sarlacc Tentacles",
@@ -6751,10 +6751,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6767,7 +6767,7 @@
    "orig": "original/orig/15_205.png",
    "x4": null,
    "align_cc": 0.0,
-   "edge_flat": 0.082
+   "edge_flat": 0.379
   },
   "15_206": {
    "title": "Scum And Villainy & Information Exchange",
@@ -6817,10 +6817,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6833,7 +6833,7 @@
    "orig": "original/orig/15_207.png",
    "x4": null,
    "align_cc": 0.624,
-   "edge_flat": 0.024
+   "edge_flat": 0.017
   },
   "15_208": {
    "title": "Security Precautions",
@@ -6850,10 +6850,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -6866,7 +6866,7 @@
    "orig": "original/orig/15_208.png",
    "x4": null,
    "align_cc": 0.678,
-   "edge_flat": 0.048
+   "edge_flat": 0.039
   },
   "15_209": {
    "title": "Tatooine Resale Operations",
@@ -7048,10 +7048,10 @@
     1356
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -7064,7 +7064,7 @@
    "orig": "original/orig/15_214.png",
    "x4": null,
    "align_cc": 0.655,
-   "edge_flat": 0.013
+   "edge_flat": 0.026
   },
   "15_215": {
    "title": "Well Guarded & Security Precautions",
@@ -7114,10 +7114,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
@@ -7130,7 +7130,7 @@
    "orig": "original/orig/15_216.png",
    "x4": null,
    "align_cc": 0.848,
-   "edge_flat": 0.001
+   "edge_flat": 0.0
   },
   "15_217": {
    "title": "Worry",
@@ -7246,10 +7246,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -7262,7 +7262,7 @@
    "orig": "original/orig/15_220.png",
    "x4": null,
    "align_cc": 0.472,
-   "edge_flat": 0.116
+   "edge_flat": 0.026
   },
   "15_221": {
    "title": "Begin Retreat!",
@@ -7345,10 +7345,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -7361,7 +7361,7 @@
    "orig": "original/orig/15_223.png",
    "x4": null,
    "align_cc": 0.428,
-   "edge_flat": 0.014
+   "edge_flat": 0.188
   },
   "15_224": {
    "title": "Boba Fett? Where?!",
@@ -7543,10 +7543,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -7559,7 +7559,7 @@
    "orig": "original/orig/15_229.png",
    "x4": null,
    "align_cc": 0.732,
-   "edge_flat": 0.009
+   "edge_flat": 0.25
   },
   "15_230": {
    "title": "Dark Collaboration & Charming To The Last",
@@ -7609,10 +7609,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -7625,7 +7625,7 @@
    "orig": "original/orig/15_231.png",
    "x4": null,
    "align_cc": 0.83,
-   "edge_flat": 0.003
+   "edge_flat": 0.001
   },
   "15_232": {
    "title": "Dark Jedi Presence & Vader's Eye",
@@ -7675,10 +7675,10 @@
     438
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -7691,7 +7691,7 @@
    "orig": "original/orig/15_233.png",
    "x4": null,
    "align_cc": 0.645,
-   "edge_flat": 0.171
+   "edge_flat": 0.114
   },
   "15_234": {
    "title": "Dioxis",
@@ -7708,10 +7708,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -7724,7 +7724,7 @@
    "orig": "original/orig/15_234.png",
    "x4": null,
    "align_cc": 0.78,
-   "edge_flat": 0.0
+   "edge_flat": 0.003
   },
   "15_235": {
    "title": "Dioxis & They're Still Coming Through!",
@@ -7939,10 +7939,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -7955,7 +7955,7 @@
    "orig": "original/orig/15_241.png",
    "x4": null,
    "align_cc": 0.613,
-   "edge_flat": 0.007
+   "edge_flat": 0.03
   },
   "15_242": {
    "title": "Force Lightning & Rise, My Friend",
@@ -8071,10 +8071,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8087,7 +8087,7 @@
    "orig": "original/orig/15_245.png",
    "x4": null,
    "align_cc": 0.92,
-   "edge_flat": 0.014
+   "edge_flat": 0.02
   },
   "15_246": {
    "title": "I Didn't Mean To...",
@@ -8203,10 +8203,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8219,7 +8219,7 @@
    "orig": "original/orig/15_249.png",
    "x4": null,
    "align_cc": 0.407,
-   "edge_flat": 0.048
+   "edge_flat": 0.064
   },
   "15_250": {
    "title": "Imperial Command & It's An Older Code",
@@ -8335,10 +8335,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8351,7 +8351,7 @@
    "orig": "original/orig/15_253.png",
    "x4": null,
    "align_cc": 0.592,
-   "edge_flat": 0.074
+   "edge_flat": 0.181
   },
   "15_254": {
    "title": "In The Pits",
@@ -8500,10 +8500,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8516,7 +8516,7 @@
    "orig": "original/orig/15_258.png",
    "x4": null,
    "align_cc": 0.686,
-   "edge_flat": 0.055
+   "edge_flat": 0.013
   },
   "15_259": {
    "title": "Jabba's Through With You & Nevar Yalnal",
@@ -8566,10 +8566,10 @@
     1353
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8582,7 +8582,7 @@
    "orig": "original/orig/15_260.png",
    "x4": null,
    "align_cc": 0.748,
-   "edge_flat": 0.08
+   "edge_flat": 0.041
   },
   "15_261": {
    "title": "Locked Door",
@@ -8731,10 +8731,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8747,7 +8747,7 @@
    "orig": "original/orig/15_265.png",
    "x4": null,
    "align_cc": 0.462,
-   "edge_flat": 0.017
+   "edge_flat": 0.015
   },
   "15_266": {
    "title": "Oo-ta Goo-ta Solo?",
@@ -8764,10 +8764,10 @@
     446
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8780,7 +8780,7 @@
    "orig": "original/orig/15_266.png",
    "x4": null,
    "align_cc": 0.203,
-   "edge_flat": 0.066
+   "edge_flat": 0.0
   },
   "15_267": {
    "title": "Operational As Planned & Wounded Warrior",
@@ -8830,10 +8830,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8846,7 +8846,7 @@
    "orig": "original/orig/15_268.png",
    "x4": null,
    "align_cc": 0.671,
-   "edge_flat": 0.061
+   "edge_flat": 0.019
   },
   "15_269": {
    "title": "Overwhelmed & A Dark Time For The Rebellion",
@@ -8896,10 +8896,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8912,7 +8912,7 @@
    "orig": "original/orig/15_270.png",
    "x4": null,
    "align_cc": 0.89,
-   "edge_flat": 0.036
+   "edge_flat": 0.001
   },
   "15_271": {
    "title": "Podracer Collision",
@@ -8929,10 +8929,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -8945,7 +8945,7 @@
    "orig": "original/orig/15_271.png",
    "x4": null,
    "align_cc": 0.921,
-   "edge_flat": 0.009
+   "edge_flat": 0.001
   },
   "15_272": {
    "title": "Podracer Collision & Hit Racer",
@@ -9028,10 +9028,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9044,7 +9044,7 @@
    "orig": "original/orig/15_274.png",
    "x4": null,
    "align_cc": 0.511,
-   "edge_flat": 0.089
+   "edge_flat": 0.173
   },
   "15_275": {
    "title": "Put All Sections On Alert & Full Scale Alert",
@@ -9127,10 +9127,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9143,7 +9143,7 @@
    "orig": "original/orig/15_277.png",
    "x4": null,
    "align_cc": 0.907,
-   "edge_flat": 0.06
+   "edge_flat": 0.032
   },
   "15_278": {
    "title": "Security Sweep",
@@ -9193,10 +9193,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9209,7 +9209,7 @@
    "orig": "original/orig/15_279.png",
    "x4": null,
    "align_cc": 0.627,
-   "edge_flat": 0.068
+   "edge_flat": 0.101
   },
   "15_280": {
    "title": "Shut Him Up Or Shut Him Down & Voyeur",
@@ -9259,10 +9259,10 @@
     441
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9275,7 +9275,7 @@
    "orig": "original/orig/15_281.png",
    "x4": null,
    "align_cc": 0.687,
-   "edge_flat": 0.004
+   "edge_flat": 0.157
   },
   "15_282": {
    "title": "Something Hit Us! & Why Didn't You Tell Me?",
@@ -9358,10 +9358,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9374,7 +9374,7 @@
    "orig": "original/orig/15_284.png",
    "x4": null,
    "align_cc": 0.796,
-   "edge_flat": 0.005
+   "edge_flat": 0.35
   },
   "15_285": {
    "title": "Start Your Engines! & Pit Crews",
@@ -9457,10 +9457,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9473,7 +9473,7 @@
    "orig": "original/orig/15_287.png",
    "x4": null,
    "align_cc": 0.663,
-   "edge_flat": 0.025
+   "edge_flat": 0.074
   },
   "15_288": {
    "title": "Tallon Roll",
@@ -9490,10 +9490,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9506,7 +9506,7 @@
    "orig": "original/orig/15_288.png",
    "x4": null,
    "align_cc": 0.423,
-   "edge_flat": 0.156
+   "edge_flat": 0.133
   },
   "15_289": {
    "title": "The Circle Is Now Complete",
@@ -9523,10 +9523,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9539,7 +9539,7 @@
    "orig": "original/orig/15_289.png",
    "x4": null,
    "align_cc": 0.822,
-   "edge_flat": 0.039
+   "edge_flat": 0.0
   },
   "15_290": {
    "title": "The Circle Is Now Complete & Vader's Obsession",
@@ -9589,10 +9589,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9605,7 +9605,7 @@
    "orig": "original/orig/15_291.png",
    "x4": null,
    "align_cc": 0.658,
-   "edge_flat": 0.027
+   "edge_flat": 0.024
   },
   "15_292": {
    "title": "Those Rebels Won't Escape Us",
@@ -9622,10 +9622,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9638,7 +9638,7 @@
    "orig": "original/orig/15_292.png",
    "x4": null,
    "align_cc": 0.528,
-   "edge_flat": 0.016
+   "edge_flat": 0.004
   },
   "15_293": {
    "title": "Through The Corridor",
@@ -9655,10 +9655,10 @@
     440
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9671,7 +9671,7 @@
    "orig": "original/orig/15_293.png",
    "x4": null,
    "align_cc": 0.844,
-   "edge_flat": 0.035
+   "edge_flat": 0.051
   },
   "15_294": {
    "title": "Trade Federation Tactics & We're Hit Artoo",
@@ -9754,10 +9754,10 @@
     444
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9770,7 +9770,7 @@
    "orig": "original/orig/15_296.png",
    "x4": null,
    "align_cc": 0.707,
-   "edge_flat": 0.027
+   "edge_flat": 0.22
   },
   "15_297": {
    "title": "Trooper Assault & Tactical Support",
@@ -9853,10 +9853,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9869,7 +9869,7 @@
    "orig": "original/orig/15_299.png",
    "x4": null,
    "align_cc": 0.728,
-   "edge_flat": 0.011
+   "edge_flat": 0.105
   },
   "15_300": {
    "title": "Unexpected Interruption",
@@ -9886,10 +9886,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9902,7 +9902,7 @@
    "orig": "original/orig/15_300.png",
    "x4": null,
    "align_cc": 0.628,
-   "edge_flat": 0.024
+   "edge_flat": 0.0
   },
   "15_301": {
    "title": "Vote Now!",
@@ -9919,10 +9919,10 @@
     443
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -9935,7 +9935,7 @@
    "orig": "original/orig/15_301.png",
    "x4": null,
    "align_cc": 0.515,
-   "edge_flat": 0.061
+   "edge_flat": 0.304
   },
   "15_302": {
    "title": "Watto's Chance Cube & You Swindled Me!",
@@ -9985,10 +9985,10 @@
     445
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -10001,7 +10001,7 @@
    "orig": "original/orig/15_303.png",
    "x4": null,
    "align_cc": 0.918,
-   "edge_flat": 0.018
+   "edge_flat": 0.079
   },
   "15_304": {
    "title": "We Must Accelerate Our Plans & Vote Now!",
@@ -10117,10 +10117,10 @@
     442
    ],
    "box": [
-    62,
-    64,
-    914,
-    635
+    63,
+    65,
+    976,
+    699
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
@@ -10133,7 +10133,7 @@
    "orig": "original/orig/15_307.png",
    "x4": null,
    "align_cc": 0.75,
-   "edge_flat": 0.02
+   "edge_flat": 0.293
   },
   "15_308": {
    "title": "You Will Meet Your Destiny",
