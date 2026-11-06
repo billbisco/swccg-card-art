@@ -12,6 +12,9 @@ manifest that records where every crop came from and how it was cut. Built for
 | `decipher/orig/<gempId>.png` | The art window cut from the printed card's scan — untouched pixels (the reference) |
 | `decipher/x4/<gempId>.webp` | The same crop upscaled 4× with RealESRGAN x4plus (an enhancement: it invents fine detail) |
 | `decipher/manifest.json` | Per card: title, side, set, scan source, crop box, frame family, status |
+| `reflections-gold/orig/15_<n>.png` | Reflections Gold (set 15): the art cut from each Reflections Gold Remastered render (the art both versions use by default, Bill 2026-11-05) |
+| `reflections-gold/original/orig/15_<n>.png` | The same window cut from the original 2001 playtest photo, straightened onto the Remastered layout (reference) |
+| `reflections-gold/manifest.json`, `reflections-gold/original/manifest.json` | Per card: title, side, type, source file, crop box, family, status |
 
 Cards are keyed by their GEMP id (`5_75` = set 5, card 75).
 
