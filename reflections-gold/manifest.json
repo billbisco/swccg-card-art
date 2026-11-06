@@ -1,7 +1,7 @@
 {
  "generated": "2026-11-05",
  "source": "Reflections Gold Remastered renders on wiki.swccg.com (File:RG-GEMP-*.png, 745x1039 / 1039x745); Bill 2026-11-05: Remastered cards use the art from the remasters",
- "crop": "frame-family registration on the renders (OpenCV ECC affine), art window = where same-frame cards differ, 3 px inset; one-card families (Starship, Vehicle, Devices, Site) measured by hand; the set sphere and Episode I icon over wide art are inpainted (OpenCV Telea); combo cards keep the window shape (the diagonal divider and rounded corners are transparent)",
+ "crop": "frame-family registration on the renders (OpenCV ECC affine), art window = where same-frame cards differ, 3 px inset; one-card families (Starship, Vehicle, Devices, Site) measured by hand; the set sphere and Episode I icon over wide art are inpainted (OpenCV Telea); combo cards keep the window shape (the diagonal divider and rounded corners are transparent); wide (landscape) Interrupts and Effects are cut at CardMaker's rg template art box (the whole card body) with the render's own title bar band, text box band, set sphere and icon inpainted, since the template draws its own frame over them",
  "upscaler": "pending: RealESRGAN x4plus copies go to x4/ when run (the CardMaker default is orig/)",
  "cards": {
   "15_1": {
@@ -608,15 +608,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "A Gift (Reflections Gold)",
    "original_file": "RG-C1-A-Gift.jpg",
@@ -670,15 +670,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Aim High (Reflections Gold)",
    "original_file": "RG-C1-Aim-High.jpg",
@@ -794,15 +794,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Brisky Morning Munchen (Reflections Gold)",
    "original_file": "RG-C1-Brisky-Morning-Munchen.jpg",
@@ -825,15 +825,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Close Air Support (Reflections Gold)",
    "original_file": "RG-C1-Close-Air-Support.jpg",
@@ -949,15 +949,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Crash Site Memorial (Reflections Gold)",
    "original_file": "RG-C1-Crash-Site-Memorial.jpg",
@@ -1011,15 +1011,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Gungan Energy Shield (Reflections Gold)",
    "original_file": "RG-C1-Gungan-Energy-Shield.jpg",
@@ -1042,15 +1042,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Hiding In The Garbage (Reflections Gold)",
    "original_file": "RG-C1-Hiding-In-The-Garbage.jpg",
@@ -1073,15 +1073,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Hope She's All Right (Reflections Gold)",
    "original_file": "RG-C1-I-Hope-She-s-All-Right.jpg",
@@ -1104,15 +1104,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Must Be Allowed To Speak (Reflections Gold)",
    "original_file": "RG-C1-I-Must-Be-Allowed-To-Speak.jpg",
@@ -1321,15 +1321,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Launching The Assault (Reflections Gold)",
    "original_file": "RG-C1-Launching-The-Assault.jpg",
@@ -1476,15 +1476,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Revolution (Reflections Gold)",
    "original_file": "RG-C1-Revolution.jpg",
@@ -1507,15 +1507,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Scramble (Reflections Gold)",
    "original_file": "RG-C1-Scramble.jpg",
@@ -1693,15 +1693,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Effect|land",
-   "inpainted_frame_fraction": 0.0256,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3942,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Traffic Control (Reflections Gold)",
    "original_file": "RG-C1-Traffic-Control.jpg",
@@ -1817,15 +1817,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "A Few Maneuvers (Reflections Gold)",
    "original_file": "RG-C1-A-Few-Maneuvers.jpg",
@@ -1879,15 +1879,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "All Wings Report In (Reflections Gold)",
    "original_file": "RG-C1-All-Wings-Report-In.jpg",
@@ -1941,15 +1941,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Attack Pattern Delta (Reflections Gold)",
    "original_file": "RG-C1-Attack-Pattern-Delta.jpg",
@@ -2065,15 +2065,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Blaster Deflection (Reflections Gold)",
    "original_file": "RG-C1-Blaster-Deflection.jpg",
@@ -2158,15 +2158,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Clash Of Sabers (Reflections Gold)",
    "original_file": "RG-C1-Clash-Of-Sabers.jpg",
@@ -2251,15 +2251,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Corellian Slip (Reflections Gold)",
    "original_file": "RG-C1-Corellian-Slip.jpg",
@@ -2375,15 +2375,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Entering The Arena (Reflections Gold)",
    "original_file": "RG-C1-Entering-The-Arena.jpg",
@@ -2406,15 +2406,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Eventually You'll Lose (Reflections Gold)",
    "original_file": "RG-C1-Eventually-You-ll-Lose.jpg",
@@ -2499,15 +2499,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Fly Casual (Reflections Gold)",
    "original_file": "RG-C1-Fly-Casual.jpg",
@@ -2561,15 +2561,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Glancing Blow (Reflections Gold)",
    "original_file": "RG-C1-Glancing-Blow.jpg",
@@ -2654,15 +2654,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "How Did We Get Into This Mess? (Reflections Gold)",
    "original_file": "RG-C1-How-Did-We-Get-Into-This-Mess.jpg",
@@ -2685,15 +2685,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Hyper Escape (Reflections Gold)",
    "original_file": "RG-C1-Hyper-Escape.jpg",
@@ -2716,15 +2716,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Have A Really Bad Feeling About This (Reflections Gold)",
    "original_file": "RG-C1-I-Have-A-Really-Bad-Feeling-About-This.jpg",
@@ -2778,15 +2778,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Inconsequential Barriers (Reflections Gold)",
    "original_file": "RG-C1-Inconsequential-Barriers.jpg",
@@ -2809,15 +2809,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Insertion Planning (Reflections Gold)",
    "original_file": "RG-C1-Insertion-Planning.jpg",
@@ -2902,15 +2902,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Jedi Presence (Reflections Gold)",
    "original_file": "RG-C1-Jedi-Presence.jpg",
@@ -3026,15 +3026,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Losing Track (Reflections Gold)",
    "original_file": "RG-C1-Losing-Track.jpg",
@@ -3150,15 +3150,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Might Of The Republic (Reflections Gold)",
    "original_file": "RG-C1-Might-Of-The-Republic.jpg",
@@ -3305,15 +3305,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Narrow Escape (Reflections Gold)",
    "original_file": "RG-C1-Narrow-Escape.jpg",
@@ -3336,15 +3336,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Neck And Neck (Reflections Gold)",
    "original_file": "RG-C1-Neck-And-Neck.jpg",
@@ -3398,15 +3398,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Nice Of You Guys To Drop By (Reflections Gold)",
    "original_file": "RG-C1-Nice-Of-You-Guys-To-Drop-By.jpg",
@@ -3460,15 +3460,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "No Giben Up, General Jar Jar! (Reflections Gold)",
    "original_file": "RG-C1-No-Giben-Up-General-Jar-Jar.jpg",
@@ -3522,15 +3522,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Off The Edge (Reflections Gold)",
    "original_file": "RG-C1-Off-The-Edge.jpg",
@@ -3677,15 +3677,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Out Of Commission (Reflections Gold)",
    "original_file": "RG-C1-Out-Of-Commission.jpg",
@@ -3770,15 +3770,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Quite A Mercenary (Reflections Gold)",
    "original_file": "RG-C1-Quite-A-Mercenary.jpg",
@@ -3801,15 +3801,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Rebel Leadership (Reflections Gold)",
    "original_file": "RG-C1-Rebel-Leadership.jpg",
@@ -3863,15 +3863,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Recoil In Fear (Reflections Gold)",
    "original_file": "RG-C1-Recoil-In-Fear.jpg",
@@ -4018,15 +4018,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Smoke Screen (Reflections Gold)",
    "original_file": "RG-C1-Smoke-Screen.jpg",
@@ -4080,15 +4080,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Sorry About The Mess (Reflections Gold)",
    "original_file": "RG-C1-Sorry-About-The-Mess.jpg",
@@ -4173,15 +4173,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Strangle (Reflections Gold)",
    "original_file": "RG-C1-Strangle.jpg",
@@ -4204,15 +4204,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Strike Blocked (Reflections Gold)",
    "original_file": "RG-C1-Strike-Blocked.jpg",
@@ -4359,15 +4359,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Too Close For Comfort (Reflections Gold)",
    "original_file": "RG-C1-Too-Close-For-Comfort.jpg",
@@ -4390,15 +4390,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Under Attack (Reflections Gold)",
    "original_file": "RG-C1-Under-Attack.jpg",
@@ -4421,15 +4421,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Vote Now! (Light) (Reflections Gold)",
    "original_file": "RG-C1-Vote-Now-Light.jpg",
@@ -4452,15 +4452,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Walker Sighting (Reflections Gold)",
    "original_file": "RG-C1-Walker-Sighting.jpg",
@@ -4483,15 +4483,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "We Can Still Outmaneuver Them (Reflections Gold)",
    "original_file": "RG-C1-We-Can-Still-Outmaneuver-Them.jpg",
@@ -4514,15 +4514,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "We Don't Need Their Scum (Reflections Gold)",
    "original_file": "RG-C1-We-Don-t-Need-Their-Scum.jpg",
@@ -4576,15 +4576,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "We Wish To Board At Once (Reflections Gold)",
    "original_file": "RG-C1-We-Wish-To-Board-At-Once.jpg",
@@ -4731,15 +4731,15 @@
     745
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Light|Interrupt|land",
-   "inpainted_frame_fraction": 0.0258,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3944,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "You Will Take Me To Jabba Now (Reflections Gold)",
    "original_file": "RG-C1-You-Will-Take-Me-To-Jabba-Now.jpg",
@@ -5258,15 +5258,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Alert My Star Destroyer! (Reflections Gold)",
    "original_file": "RG-C1-Alert-My-Star-Destroyer.jpg",
@@ -5289,15 +5289,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Aratech Corporation (Reflections Gold)",
    "original_file": "RG-C1-Aratech-Corporation.jpg",
@@ -5475,15 +5475,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Crossfire (Reflections Gold)",
    "original_file": "RG-C1-Crossfire.jpg",
@@ -5599,15 +5599,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Expand The Empire (Reflections Gold)",
    "original_file": "RG-C1-Expand-The-Empire.jpg",
@@ -5630,15 +5630,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Flagship Operations (Reflections Gold)",
    "original_file": "RG-C1-Flagship-Operations.jpg",
@@ -5661,15 +5661,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Had No Choice (Reflections Gold)",
    "original_file": "RG-C1-I-Had-No-Choice.jpg",
@@ -5692,15 +5692,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Will Find Them Quickly Master (Reflections Gold)",
    "original_file": "RG-C1-I-Will-Find-Them-Quickly-Master.jpg",
@@ -5816,15 +5816,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Imperial Justice (Reflections Gold)",
    "original_file": "RG-C1-Imperial-Justice.jpg",
@@ -6033,15 +6033,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Open Fire! (Reflections Gold)",
    "original_file": "RG-C1-Open-Fire.jpg",
@@ -6126,15 +6126,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Perimeter Patrol (Reflections Gold)",
    "original_file": "RG-C1-Perimeter-Patrol.jpg",
@@ -6219,15 +6219,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Quietly Observing (Reflections Gold)",
    "original_file": "RG-C1-Quietly-Observing.jpg",
@@ -6250,15 +6250,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Relentless Tracking (Reflections Gold)",
    "original_file": "RG-C1-Relentless-Tracking.jpg",
@@ -6281,15 +6281,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Responsibility Of Command (Reflections Gold)",
    "original_file": "RG-C1-Responsibility-Of-Command.jpg",
@@ -6343,15 +6343,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Scum And Villainy (Reflections Gold)",
    "original_file": "RG-C1-Scum-And-Villainy.jpg",
@@ -6405,15 +6405,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Search And Destroy (Reflections Gold)",
    "original_file": "RG-C1-Search-And-Destroy.jpg",
@@ -6436,15 +6436,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Security Precautions (Reflections Gold)",
    "original_file": "RG-C1-Security-Precautions.jpg",
@@ -6622,15 +6622,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Weapon Malfunction (Reflections Gold)",
    "original_file": "RG-C1-Weapon-Malfunction.jpg",
@@ -6684,15 +6684,15 @@
     745
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Effect|land",
-   "inpainted_frame_fraction": 0.0215,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3925,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Well-Earned Command (Reflections Gold)",
    "original_file": "RG-C1-Well-Earned-Command.jpg",
@@ -6808,15 +6808,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Atmospheric Assault (Reflections Gold)",
    "original_file": "RG-C1-Atmospheric-Assault.jpg",
@@ -6901,15 +6901,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Blow Parried (Reflections Gold)",
    "original_file": "RG-C1-Blow-Parried.jpg",
@@ -7087,15 +7087,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Counter Surprise Assault (Reflections Gold)",
    "original_file": "RG-C1-Counter-Surprise-Assault.jpg",
@@ -7149,15 +7149,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Dark Jedi Presence (Reflections Gold)",
    "original_file": "RG-C1-Dark-Jedi-Presence.jpg",
@@ -7211,15 +7211,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Dark Maneuvers (Reflections Gold)",
    "original_file": "RG-C1-Dark-Maneuvers.jpg",
@@ -7242,15 +7242,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Dioxis (Reflections Gold)",
    "original_file": "RG-C1-Dioxis.jpg",
@@ -7459,15 +7459,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Force Lightning (Reflections Gold)",
    "original_file": "RG-C1-Force-Lightning.jpg",
@@ -7583,15 +7583,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Hit Racer (Reflections Gold)",
    "original_file": "RG-C1-Hit-Racer.jpg",
@@ -7707,15 +7707,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Imperial Command (Reflections Gold)",
    "original_file": "RG-C1-Imperial-Command.jpg",
@@ -7831,15 +7831,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Imperial Supply (Reflections Gold)",
    "original_file": "RG-C1-Imperial-Supply.jpg",
@@ -7986,15 +7986,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Jabba's Through With You (Reflections Gold)",
    "original_file": "RG-C1-Jabba-s-Through-With-You.jpg",
@@ -8048,15 +8048,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Local Trouble (Reflections Gold)",
    "original_file": "RG-C1-Local-Trouble.jpg",
@@ -8203,15 +8203,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "None Shall Pass (Reflections Gold)",
    "original_file": "RG-C1-None-Shall-Pass.jpg",
@@ -8234,15 +8234,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Oo-ta Goo-ta Solo? (Reflections Gold)",
    "original_file": "RG-C1-Oo-ta-Goo-ta-Solo.jpg",
@@ -8296,15 +8296,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Our First Catch Of The Day (Reflections Gold)",
    "original_file": "RG-C1-Our-First-Catch-Of-The-Day.jpg",
@@ -8358,15 +8358,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Pit Crews (Reflections Gold)",
    "original_file": "RG-C1-Pit-Crews.jpg",
@@ -8389,15 +8389,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Podracer Collision (Reflections Gold)",
    "original_file": "RG-C1-Podracer-Collision.jpg",
@@ -8482,15 +8482,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Projective Telepathy (Reflections Gold)",
    "original_file": "RG-C1-Projective-Telepathy.jpg",
@@ -8575,15 +8575,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Rolling, Rolling, Rolling (Reflections Gold)",
    "original_file": "RG-C1-Rolling-Rolling-Rolling.jpg",
@@ -8637,15 +8637,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Short Range Fighters (Reflections Gold)",
    "original_file": "RG-C1-Short-Range-Fighters.jpg",
@@ -8699,15 +8699,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Sniper (Reflections Gold)",
    "original_file": "RG-C1-Sniper.jpg",
@@ -8792,15 +8792,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Squabbling Delegates (Reflections Gold)",
    "original_file": "RG-C1-Squabbling-Delegates.jpg",
@@ -8885,15 +8885,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Tactical Support (Reflections Gold)",
    "original_file": "RG-C1-Tactical-Support.jpg",
@@ -8916,15 +8916,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Tallon Roll (Reflections Gold)",
    "original_file": "RG-C1-Tallon-Roll.jpg",
@@ -8947,15 +8947,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "The Circle Is Now Complete (Reflections Gold)",
    "original_file": "RG-C1-The-Circle-Is-Now-Complete.jpg",
@@ -9009,15 +9009,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "They're Still Coming Through (Reflections Gold)",
    "original_file": "RG-C1-They-re-Still-Coming-Through.jpg",
@@ -9040,15 +9040,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Those Rebels Won't Escape Us (Reflections Gold)",
    "original_file": "RG-C1-Those-Rebels-Won-t-Escape-Us.jpg",
@@ -9071,15 +9071,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Through The Corridor (Reflections Gold)",
    "original_file": "RG-C1-Through-The-Corridor.jpg",
@@ -9164,15 +9164,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Trap Door (Reflections Gold)",
    "original_file": "RG-C1-Trap-Door.jpg",
@@ -9257,15 +9257,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Uncertain Is The Future (Reflections Gold)",
    "original_file": "RG-C1-Uncertain-Is-The-Future.jpg",
@@ -9288,15 +9288,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Unexpected Interruption (Reflections Gold)",
    "original_file": "RG-C1-Unexpected-Interruption.jpg",
@@ -9319,15 +9319,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Vote Now! (Dark) (Reflections Gold)",
    "original_file": "RG-C1-Vote-Now-Dark.jpg",
@@ -9381,15 +9381,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "We Have A Prisoner (Reflections Gold)",
    "original_file": "RG-C1-We-Have-A-Prisoner.jpg",
@@ -9505,15 +9505,15 @@
     745
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "remaster render 745x1039 (1039x745 landscape)",
    "family": "Dark|Interrupt|land",
-   "inpainted_frame_fraction": 0.0212,
-   "window_from": "family variance",
+   "inpainted_frame_fraction": 0.3922,
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "You Are Beaten (Reflections Gold)",
    "original_file": "RG-C1-You-Are-Beaten.jpg",

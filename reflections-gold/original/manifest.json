@@ -646,15 +646,15 @@
     442
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "A Gift (Reflections Gold)",
    "original_file": "RG-C1-A-Gift.jpg",
@@ -662,7 +662,7 @@
    "orig": "original/orig/15_20.png",
    "x4": null,
    "align_cc": 0.482,
-   "edge_flat": 0.024
+   "edge_flat": 0.089
   },
   "15_21": {
    "title": "Ackbar's Assault Plan",
@@ -712,15 +712,15 @@
     442
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Aim High (Reflections Gold)",
    "original_file": "RG-C1-Aim-High.jpg",
@@ -728,7 +728,7 @@
    "orig": "original/orig/15_22.png",
    "x4": null,
    "align_cc": 0.772,
-   "edge_flat": 0.029
+   "edge_flat": 0.0
   },
   "15_23": {
    "title": "Bad Lifters And Faulty Wings",
@@ -844,15 +844,15 @@
     447
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Brisky Morning Munchen (Reflections Gold)",
    "original_file": "RG-C1-Brisky-Morning-Munchen.jpg",
@@ -860,7 +860,7 @@
    "orig": "original/orig/15_26.png",
    "x4": null,
    "align_cc": 0.729,
-   "edge_flat": 0.127
+   "edge_flat": 0.038
   },
   "15_27": {
    "title": "Close Air Support",
@@ -877,15 +877,15 @@
     444
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Close Air Support (Reflections Gold)",
    "original_file": "RG-C1-Close-Air-Support.jpg",
@@ -893,7 +893,7 @@
    "orig": "original/orig/15_27.png",
    "x4": null,
    "align_cc": 0.815,
-   "edge_flat": 0.245
+   "edge_flat": 0.055
   },
   "15_28": {
    "title": "Close Air Support & Commando Training",
@@ -1009,15 +1009,15 @@
     442
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Crash Site Memorial (Reflections Gold)",
    "original_file": "RG-C1-Crash-Site-Memorial.jpg",
@@ -1025,7 +1025,7 @@
    "orig": "original/orig/15_31.png",
    "x4": null,
    "align_cc": 0.479,
-   "edge_flat": 0.279
+   "edge_flat": 0.201
   },
   "15_32": {
    "title": "Credits Will Do Fine & We're Leaving",
@@ -1075,15 +1075,15 @@
     447
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Gungan Energy Shield (Reflections Gold)",
    "original_file": "RG-C1-Gungan-Energy-Shield.jpg",
@@ -1091,7 +1091,7 @@
    "orig": "original/orig/15_33.png",
    "x4": null,
    "align_cc": 0.5,
-   "edge_flat": 0.347
+   "edge_flat": 0.326
   },
   "15_34": {
    "title": "Hiding In The Garbage",
@@ -1108,15 +1108,15 @@
     444
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Hiding In The Garbage (Reflections Gold)",
    "original_file": "RG-C1-Hiding-In-The-Garbage.jpg",
@@ -1124,7 +1124,7 @@
    "orig": "original/orig/15_34.png",
    "x4": null,
    "align_cc": 0.736,
-   "edge_flat": 0.143
+   "edge_flat": 0.042
   },
   "15_35": {
    "title": "I Hope She's All Right",
@@ -1141,15 +1141,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Hope She's All Right (Reflections Gold)",
    "original_file": "RG-C1-I-Hope-She-s-All-Right.jpg",
@@ -1157,7 +1157,7 @@
    "orig": "original/orig/15_35.png",
    "x4": null,
    "align_cc": 0.513,
-   "edge_flat": 0.005
+   "edge_flat": 0.001
   },
   "15_36": {
    "title": "I Must Be Allowed To Speak",
@@ -1174,15 +1174,15 @@
     441
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Must Be Allowed To Speak (Reflections Gold)",
    "original_file": "RG-C1-I-Must-Be-Allowed-To-Speak.jpg",
@@ -1190,7 +1190,7 @@
    "orig": "original/orig/15_36.png",
    "x4": null,
    "align_cc": 0.632,
-   "edge_flat": 0.011
+   "edge_flat": 0.014
   },
   "15_37": {
    "title": "I Must Be Allowed To Speak & Goo Nee Tay",
@@ -1405,15 +1405,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Launching The Assault (Reflections Gold)",
    "original_file": "RG-C1-Launching-The-Assault.jpg",
@@ -1421,7 +1421,7 @@
    "orig": "original/orig/15_43.png",
    "x4": null,
    "align_cc": 0.797,
-   "edge_flat": 0.445
+   "edge_flat": 0.095
   },
   "15_44": {
    "title": "Looking To The Future",
@@ -1570,15 +1570,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Revolution (Reflections Gold)",
    "original_file": "RG-C1-Revolution.jpg",
@@ -1586,7 +1586,7 @@
    "orig": "original/orig/15_48.png",
    "x4": null,
    "align_cc": 0.874,
-   "edge_flat": 0.101
+   "edge_flat": 0.077
   },
   "15_49": {
    "title": "Scramble",
@@ -1603,15 +1603,15 @@
     444
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Scramble (Reflections Gold)",
    "original_file": "RG-C1-Scramble.jpg",
@@ -1619,7 +1619,7 @@
    "orig": "original/orig/15_49.png",
    "x4": null,
    "align_cc": 0.851,
-   "edge_flat": 0.104
+   "edge_flat": 0.08
   },
   "15_50": {
    "title": "Scramble & Hiding In The Garbage",
@@ -1801,15 +1801,15 @@
     436
    ],
    "box": [
-    40,
-    151,
-    998,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Traffic Control (Reflections Gold)",
    "original_file": "RG-C1-Traffic-Control.jpg",
@@ -1817,7 +1817,7 @@
    "orig": "original/orig/15_55.png",
    "x4": null,
    "align_cc": 0.471,
-   "edge_flat": 0.019
+   "edge_flat": 0.014
   },
   "15_56": {
    "title": "Traffic Control & Crash Site Memorial",
@@ -1933,15 +1933,15 @@
     440
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "A Few Maneuvers (Reflections Gold)",
    "original_file": "RG-C1-A-Few-Maneuvers.jpg",
@@ -1949,7 +1949,7 @@
    "orig": "original/orig/15_59.png",
    "x4": null,
    "align_cc": 0.652,
-   "edge_flat": 0.218
+   "edge_flat": 0.113
   },
   "15_60": {
    "title": "A Few Maneuvers & Han's Dice",
@@ -1999,15 +1999,15 @@
     440
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "All Wings Report In (Reflections Gold)",
    "original_file": "RG-C1-All-Wings-Report-In.jpg",
@@ -2015,7 +2015,7 @@
    "orig": "original/orig/15_61.png",
    "x4": null,
    "align_cc": 0.799,
-   "edge_flat": 0.2
+   "edge_flat": 0.043
   },
   "15_62": {
    "title": "Armed And Dangerous & Ambush",
@@ -2065,15 +2065,15 @@
     444
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Attack Pattern Delta (Reflections Gold)",
    "original_file": "RG-C1-Attack-Pattern-Delta.jpg",
@@ -2081,7 +2081,7 @@
    "orig": "original/orig/15_63.png",
    "x4": null,
    "align_cc": 0.785,
-   "edge_flat": 0.199
+   "edge_flat": 0.068
   },
   "15_64": {
    "title": "Away Put Your Weapon & Put That Down",
@@ -2197,15 +2197,15 @@
     443
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Blaster Deflection (Reflections Gold)",
    "original_file": "RG-C1-Blaster-Deflection.jpg",
@@ -2213,7 +2213,7 @@
    "orig": "original/orig/15_67.png",
    "x4": null,
    "align_cc": 0.662,
-   "edge_flat": 0.02
+   "edge_flat": 0.0
   },
   "15_68": {
    "title": "Careful Planning & Heading For The Medical Frigate",
@@ -2296,15 +2296,15 @@
     441
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Clash Of Sabers (Reflections Gold)",
    "original_file": "RG-C1-Clash-Of-Sabers.jpg",
@@ -2312,7 +2312,7 @@
    "orig": "original/orig/15_70.png",
    "x4": null,
    "align_cc": 0.782,
-   "edge_flat": 0.295
+   "edge_flat": 0.132
   },
   "15_71": {
    "title": "Clinging To The Edge",
@@ -2395,15 +2395,15 @@
     440
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Corellian Slip (Reflections Gold)",
    "original_file": "RG-C1-Corellian-Slip.jpg",
@@ -2411,7 +2411,7 @@
    "orig": "original/orig/15_73.png",
    "x4": null,
    "align_cc": 0.718,
-   "edge_flat": 0.377
+   "edge_flat": 0.122
   },
   "15_74": {
    "title": "Droid Overboard",
@@ -2527,15 +2527,15 @@
     447
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Entering The Arena (Reflections Gold)",
    "original_file": "RG-C1-Entering-The-Arena.jpg",
@@ -2543,7 +2543,7 @@
    "orig": "original/orig/15_77.png",
    "x4": null,
    "align_cc": 0.851,
-   "edge_flat": 0.04
+   "edge_flat": 0.011
   },
   "15_78": {
    "title": "Eventually You'll Lose",
@@ -2560,15 +2560,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Eventually You'll Lose (Reflections Gold)",
    "original_file": "RG-C1-Eventually-You-ll-Lose.jpg",
@@ -2576,7 +2576,7 @@
    "orig": "original/orig/15_78.png",
    "x4": null,
    "align_cc": 0.812,
-   "edge_flat": 0.05
+   "edge_flat": 0.023
   },
   "15_79": {
    "title": "False Past",
@@ -2659,15 +2659,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Fly Casual (Reflections Gold)",
    "original_file": "RG-C1-Fly-Casual.jpg",
@@ -2675,7 +2675,7 @@
    "orig": "original/orig/15_81.png",
    "x4": null,
    "align_cc": 0.744,
-   "edge_flat": 0.033
+   "edge_flat": 0.006
   },
   "15_82": {
    "title": "Gift Of The Mentor & Skywalkers",
@@ -2725,15 +2725,15 @@
     441
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Glancing Blow (Reflections Gold)",
    "original_file": "RG-C1-Glancing-Blow.jpg",
@@ -2741,7 +2741,7 @@
    "orig": "original/orig/15_83.png",
    "x4": null,
    "align_cc": 0.789,
-   "edge_flat": 0.003
+   "edge_flat": 0.002
   },
   "15_84": {
    "title": "Han's Back & Leia's Back",
@@ -2824,15 +2824,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "How Did We Get Into This Mess? (Reflections Gold)",
    "original_file": "RG-C1-How-Did-We-Get-Into-This-Mess.jpg",
@@ -2840,7 +2840,7 @@
    "orig": "original/orig/15_86.png",
    "x4": null,
    "align_cc": 0.796,
-   "edge_flat": 0.13
+   "edge_flat": 0.01
   },
   "15_87": {
    "title": "Hyper Escape",
@@ -2857,15 +2857,15 @@
     443
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Hyper Escape (Reflections Gold)",
    "original_file": "RG-C1-Hyper-Escape.jpg",
@@ -2873,7 +2873,7 @@
    "orig": "original/orig/15_87.png",
    "x4": null,
    "align_cc": 0.694,
-   "edge_flat": 0.066
+   "edge_flat": 0.008
   },
   "15_88": {
    "title": "I Have A Really Bad Feeling About This",
@@ -2890,15 +2890,15 @@
     444
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Have A Really Bad Feeling About This (Reflections Gold)",
    "original_file": "RG-C1-I-Have-A-Really-Bad-Feeling-About-This.jpg",
@@ -2906,7 +2906,7 @@
    "orig": "original/orig/15_88.png",
    "x4": null,
    "align_cc": 0.815,
-   "edge_flat": 0.013
+   "edge_flat": 0.008
   },
   "15_89": {
    "title": "I Used To Live Here, You Know?",
@@ -2956,15 +2956,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Inconsequential Barriers (Reflections Gold)",
    "original_file": "RG-C1-Inconsequential-Barriers.jpg",
@@ -2972,7 +2972,7 @@
    "orig": "original/orig/15_90.png",
    "x4": null,
    "align_cc": 0.942,
-   "edge_flat": 0.151
+   "edge_flat": 0.067
   },
   "15_91": {
    "title": "Insertion Planning",
@@ -2989,15 +2989,15 @@
     445
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Insertion Planning (Reflections Gold)",
    "original_file": "RG-C1-Insertion-Planning.jpg",
@@ -3005,7 +3005,7 @@
    "orig": "original/orig/15_91.png",
    "x4": null,
    "align_cc": 0.658,
-   "edge_flat": 0.022
+   "edge_flat": 0.009
   },
   "15_92": {
    "title": "Insertion Planning & Critical Error Revealed",
@@ -3088,15 +3088,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Jedi Presence (Reflections Gold)",
    "original_file": "RG-C1-Jedi-Presence.jpg",
@@ -3104,7 +3104,7 @@
    "orig": "original/orig/15_94.png",
    "x4": null,
    "align_cc": 0.9,
-   "edge_flat": 0.202
+   "edge_flat": 0.003
   },
   "15_95": {
    "title": "Jedi Tactics",
@@ -3220,15 +3220,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Losing Track (Reflections Gold)",
    "original_file": "RG-C1-Losing-Track.jpg",
@@ -3236,7 +3236,7 @@
    "orig": "original/orig/15_98.png",
    "x4": null,
    "align_cc": 0.557,
-   "edge_flat": 0.001
+   "edge_flat": 0.003
   },
   "15_99": {
    "title": "Losing Track & A Step Backwards",
@@ -3352,15 +3352,15 @@
     447
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Might Of The Republic (Reflections Gold)",
    "original_file": "RG-C1-Might-Of-The-Republic.jpg",
@@ -3368,7 +3368,7 @@
    "orig": "original/orig/15_102.png",
    "x4": null,
    "align_cc": 0.807,
-   "edge_flat": 0.043
+   "edge_flat": 0.002
   },
   "15_103": {
    "title": "Mindful Of The Future & Inconsequential Barriers",
@@ -3517,15 +3517,15 @@
     445
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Narrow Escape (Reflections Gold)",
    "original_file": "RG-C1-Narrow-Escape.jpg",
@@ -3533,7 +3533,7 @@
    "orig": "original/orig/15_107.png",
    "x4": null,
    "align_cc": 0.613,
-   "edge_flat": 0.0
+   "edge_flat": 0.003
   },
   "15_108": {
    "title": "Neck And Neck",
@@ -3550,15 +3550,15 @@
     447
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Neck And Neck (Reflections Gold)",
    "original_file": "RG-C1-Neck-And-Neck.jpg",
@@ -3566,7 +3566,7 @@
    "orig": "original/orig/15_108.png",
    "x4": null,
    "align_cc": 0.886,
-   "edge_flat": 0.375
+   "edge_flat": 0.04
   },
   "15_109": {
    "title": "Neck And Neck & Changing The Odds",
@@ -3616,15 +3616,15 @@
     441
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Nice Of You Guys To Drop By (Reflections Gold)",
    "original_file": "RG-C1-Nice-Of-You-Guys-To-Drop-By.jpg",
@@ -3632,7 +3632,7 @@
    "orig": "original/orig/15_110.png",
    "x4": null,
    "align_cc": 0.865,
-   "edge_flat": 0.074
+   "edge_flat": 0.04
   },
   "15_111": {
    "title": "Nice Of You Guys To Drop By & Visored Vision",
@@ -3682,15 +3682,15 @@
     447
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "No Giben Up, General Jar Jar! (Reflections Gold)",
    "original_file": "RG-C1-No-Giben-Up-General-Jar-Jar.jpg",
@@ -3698,7 +3698,7 @@
    "orig": "original/orig/15_112.png",
    "x4": null,
    "align_cc": 0.908,
-   "edge_flat": 0.114
+   "edge_flat": 0.024
   },
   "15_113": {
    "title": "No Giben Up, General Jar Jar & Gimme A Lift!",
@@ -3748,15 +3748,15 @@
     444
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Off The Edge (Reflections Gold)",
    "original_file": "RG-C1-Off-The-Edge.jpg",
@@ -3764,7 +3764,7 @@
    "orig": "original/orig/15_114.png",
    "x4": null,
    "align_cc": 0.778,
-   "edge_flat": 0.026
+   "edge_flat": 0.022
   },
   "15_115": {
    "title": "Old Ben & Noble Sacrifice",
@@ -3913,15 +3913,15 @@
     444
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Out Of Commission (Reflections Gold)",
    "original_file": "RG-C1-Out-Of-Commission.jpg",
@@ -3929,7 +3929,7 @@
    "orig": "original/orig/15_119.png",
    "x4": null,
    "align_cc": 0.626,
-   "edge_flat": 0.111
+   "edge_flat": 0.042
   },
   "15_120": {
    "title": "Perimeter Scan & Under Attack",
@@ -4012,15 +4012,15 @@
     443
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Quite A Mercenary (Reflections Gold)",
    "original_file": "RG-C1-Quite-A-Mercenary.jpg",
@@ -4028,7 +4028,7 @@
    "orig": "original/orig/15_122.png",
    "x4": null,
    "align_cc": 0.763,
-   "edge_flat": 0.034
+   "edge_flat": 0.039
   },
   "15_123": {
    "title": "Rebel Leadership",
@@ -4045,15 +4045,15 @@
     445
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Rebel Leadership (Reflections Gold)",
    "original_file": "RG-C1-Rebel-Leadership.jpg",
@@ -4111,15 +4111,15 @@
     444
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Recoil In Fear (Reflections Gold)",
    "original_file": "RG-C1-Recoil-In-Fear.jpg",
@@ -4127,7 +4127,7 @@
    "orig": "original/orig/15_125.png",
    "x4": null,
    "align_cc": 0.802,
-   "edge_flat": 0.078
+   "edge_flat": 0.043
   },
   "15_126": {
    "title": "Return Of A Jedi & Luke's Back",
@@ -4276,15 +4276,15 @@
     444
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Smoke Screen (Reflections Gold)",
    "original_file": "RG-C1-Smoke-Screen.jpg",
@@ -4292,7 +4292,7 @@
    "orig": "original/orig/15_130.png",
    "x4": null,
    "align_cc": 0.832,
-   "edge_flat": 0.025
+   "edge_flat": 0.013
   },
   "15_131": {
    "title": "Smoke Screen & It's A Trap!",
@@ -4342,15 +4342,15 @@
     441
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Sorry About The Mess (Reflections Gold)",
    "original_file": "RG-C1-Sorry-About-The-Mess.jpg",
@@ -4358,7 +4358,7 @@
    "orig": "original/orig/15_132.png",
    "x4": null,
    "align_cc": 0.644,
-   "edge_flat": 0.086
+   "edge_flat": 0.002
   },
   "15_133": {
    "title": "Speak With The Jedi Council & Vote Now!",
@@ -4441,15 +4441,15 @@
     1356
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Strangle (Reflections Gold)",
    "original_file": "RG-C1-Strangle.jpg",
@@ -4457,7 +4457,7 @@
    "orig": "original/orig/15_135.png",
    "x4": null,
    "align_cc": 0.718,
-   "edge_flat": 0.172
+   "edge_flat": 0.083
   },
   "15_136": {
    "title": "Strike Blocked",
@@ -4474,15 +4474,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Strike Blocked (Reflections Gold)",
    "original_file": "RG-C1-Strike-Blocked.jpg",
@@ -4490,7 +4490,7 @@
    "orig": "original/orig/15_136.png",
    "x4": null,
    "align_cc": 0.847,
-   "edge_flat": 0.235
+   "edge_flat": 0.022
   },
   "15_137": {
    "title": "Taking On The Whole Empire By Myself",
@@ -4639,15 +4639,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Too Close For Comfort (Reflections Gold)",
    "original_file": "RG-C1-Too-Close-For-Comfort.jpg",
@@ -4655,7 +4655,7 @@
    "orig": "original/orig/15_141.png",
    "x4": null,
    "align_cc": 0.79,
-   "edge_flat": 0.326
+   "edge_flat": 0.029
   },
   "15_142": {
    "title": "Under Attack",
@@ -4672,15 +4672,15 @@
     447
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Under Attack (Reflections Gold)",
    "original_file": "RG-C1-Under-Attack.jpg",
@@ -4688,7 +4688,7 @@
    "orig": "original/orig/15_142.png",
    "x4": null,
    "align_cc": 0.806,
-   "edge_flat": 0.017
+   "edge_flat": 0.042
   },
   "15_143": {
    "title": "Vote Now!",
@@ -4705,15 +4705,15 @@
     442
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Vote Now! (Light) (Reflections Gold)",
    "original_file": "RG-C1-Vote-Now-Light.jpg",
@@ -4721,7 +4721,7 @@
    "orig": "original/orig/15_143.png",
    "x4": null,
    "align_cc": 0.904,
-   "edge_flat": 0.017
+   "edge_flat": 0.007
   },
   "15_144": {
    "title": "Walker Sighting",
@@ -4738,15 +4738,15 @@
     446
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Walker Sighting (Reflections Gold)",
    "original_file": "RG-C1-Walker-Sighting.jpg",
@@ -4771,15 +4771,15 @@
     444
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "We Can Still Outmaneuver Them (Reflections Gold)",
    "original_file": "RG-C1-We-Can-Still-Outmaneuver-Them.jpg",
@@ -4787,7 +4787,7 @@
    "orig": "original/orig/15_145.png",
    "x4": null,
    "align_cc": 0.622,
-   "edge_flat": 0.421
+   "edge_flat": 0.134
   },
   "15_146": {
    "title": "We Don't Need Their Scum",
@@ -4804,15 +4804,15 @@
     444
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "We Don't Need Their Scum (Reflections Gold)",
    "original_file": "RG-C1-We-Don-t-Need-Their-Scum.jpg",
@@ -4820,7 +4820,7 @@
    "orig": "original/orig/15_146.png",
    "x4": null,
    "align_cc": 0.839,
-   "edge_flat": 0.098
+   "edge_flat": 0.05
   },
   "15_147": {
    "title": "We Don't Want To Cause Any Trouble",
@@ -4870,15 +4870,15 @@
     447
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "We Wish To Board At Once (Reflections Gold)",
    "original_file": "RG-C1-We-Wish-To-Board-At-Once.jpg",
@@ -4886,7 +4886,7 @@
    "orig": "original/orig/15_148.png",
    "x4": null,
    "align_cc": 0.378,
-   "edge_flat": 0.189
+   "edge_flat": 0.067
   },
   "15_149": {
    "title": "We Wish To Board At Once & Are You Brain Dead?!",
@@ -5035,15 +5035,15 @@
     441
    ],
    "box": [
-    40,
-    150,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Light|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "You Will Take Me To Jabba Now (Reflections Gold)",
    "original_file": "RG-C1-You-Will-Take-Me-To-Jabba-Now.jpg",
@@ -5051,7 +5051,7 @@
    "orig": "original/orig/15_153.png",
    "x4": null,
    "align_cc": 0.816,
-   "edge_flat": 0.036
+   "edge_flat": 0.021
   },
   "15_154": {
    "title": "You Will Take Me To Jabba Now & Strangle",
@@ -5150,7 +5150,7 @@
    "orig": "original/orig/15_156.png",
    "x4": null,
    "align_cc": 0.245,
-   "edge_flat": 0.116
+   "edge_flat": 0.119
   },
   "15_157": {
    "title": "Boba Fett",
@@ -5596,15 +5596,15 @@
     442
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Alert My Star Destroyer! (Reflections Gold)",
    "original_file": "RG-C1-Alert-My-Star-Destroyer.jpg",
@@ -5612,7 +5612,7 @@
    "orig": "original/orig/15_170.png",
    "x4": null,
    "align_cc": 0.647,
-   "edge_flat": 0.07
+   "edge_flat": 0.035
   },
   "15_171": {
    "title": "Aratech Corporation",
@@ -5629,15 +5629,15 @@
     443
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Aratech Corporation (Reflections Gold)",
    "original_file": "RG-C1-Aratech-Corporation.jpg",
@@ -5645,7 +5645,7 @@
    "orig": "original/orig/15_171.png",
    "x4": null,
    "align_cc": 0.671,
-   "edge_flat": 0.023
+   "edge_flat": 0.013
   },
   "15_172": {
    "title": "Back On Schedule",
@@ -5827,15 +5827,15 @@
     445
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Crossfire (Reflections Gold)",
    "original_file": "RG-C1-Crossfire.jpg",
@@ -5843,7 +5843,7 @@
    "orig": "original/orig/15_177.png",
    "x4": null,
    "align_cc": 0.345,
-   "edge_flat": 0.205
+   "edge_flat": 0.042
   },
   "15_178": {
    "title": "Emperor's Power & Overseeing It Personally",
@@ -5959,15 +5959,15 @@
     441
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Expand The Empire (Reflections Gold)",
    "original_file": "RG-C1-Expand-The-Empire.jpg",
@@ -5975,7 +5975,7 @@
    "orig": "original/orig/15_181.png",
    "x4": null,
    "align_cc": 0.648,
-   "edge_flat": 0.342
+   "edge_flat": 0.148
   },
   "15_182": {
    "title": "Flagship Operations",
@@ -5992,15 +5992,15 @@
     445
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Flagship Operations (Reflections Gold)",
    "original_file": "RG-C1-Flagship-Operations.jpg",
@@ -6008,7 +6008,7 @@
    "orig": "original/orig/15_182.png",
    "x4": null,
    "align_cc": 0.528,
-   "edge_flat": 0.204
+   "edge_flat": 0.084
   },
   "15_183": {
    "title": "I Had No Choice",
@@ -6025,15 +6025,15 @@
     445
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Had No Choice (Reflections Gold)",
    "original_file": "RG-C1-I-Had-No-Choice.jpg",
@@ -6041,7 +6041,7 @@
    "orig": "original/orig/15_183.png",
    "x4": null,
    "align_cc": 0.849,
-   "edge_flat": 0.023
+   "edge_flat": 0.053
   },
   "15_184": {
    "title": "I Will Find Them Quickly Master",
@@ -6058,15 +6058,15 @@
     443
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "I Will Find Them Quickly Master (Reflections Gold)",
    "original_file": "RG-C1-I-Will-Find-Them-Quickly-Master.jpg",
@@ -6074,7 +6074,7 @@
    "orig": "original/orig/15_184.png",
    "x4": null,
    "align_cc": 0.916,
-   "edge_flat": 0.037
+   "edge_flat": 0.012
   },
   "15_185": {
    "title": "Imperial Compensation",
@@ -6190,15 +6190,15 @@
     441
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Imperial Justice (Reflections Gold)",
    "original_file": "RG-C1-Imperial-Justice.jpg",
@@ -6206,7 +6206,7 @@
    "orig": "original/orig/15_188.png",
    "x4": null,
    "align_cc": 0.753,
-   "edge_flat": 0.154
+   "edge_flat": 0.035
   },
   "15_189": {
    "title": "Jabba's Droid Pool",
@@ -6421,15 +6421,15 @@
     440
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Open Fire! (Reflections Gold)",
    "original_file": "RG-C1-Open-Fire.jpg",
@@ -6437,7 +6437,7 @@
    "orig": "original/orig/15_195.png",
    "x4": null,
    "align_cc": 0.581,
-   "edge_flat": 0.065
+   "edge_flat": 0.115
   },
   "15_196": {
    "title": "Perfect Hibernation",
@@ -6520,15 +6520,15 @@
     441
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Perimeter Patrol (Reflections Gold)",
    "original_file": "RG-C1-Perimeter-Patrol.jpg",
@@ -6536,7 +6536,7 @@
    "orig": "original/orig/15_198.png",
    "x4": null,
    "align_cc": 0.789,
-   "edge_flat": 0.319
+   "edge_flat": 0.048
   },
   "15_199": {
    "title": "Presence Of The Force & Dark Waters",
@@ -6619,15 +6619,15 @@
     443
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Quietly Observing (Reflections Gold)",
    "original_file": "RG-C1-Quietly-Observing.jpg",
@@ -6635,7 +6635,7 @@
    "orig": "original/orig/15_201.png",
    "x4": null,
    "align_cc": 0.575,
-   "edge_flat": 0.02
+   "edge_flat": 0.074
   },
   "15_202": {
    "title": "Relentless Tracking",
@@ -6652,15 +6652,15 @@
     441
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Relentless Tracking (Reflections Gold)",
    "original_file": "RG-C1-Relentless-Tracking.jpg",
@@ -6668,7 +6668,7 @@
    "orig": "original/orig/15_202.png",
    "x4": null,
    "align_cc": 0.717,
-   "edge_flat": 0.057
+   "edge_flat": 0.04
   },
   "15_203": {
    "title": "Responsibility Of Command",
@@ -6685,15 +6685,15 @@
     442
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Responsibility Of Command (Reflections Gold)",
    "original_file": "RG-C1-Responsibility-Of-Command.jpg",
@@ -6701,7 +6701,7 @@
    "orig": "original/orig/15_203.png",
    "x4": null,
    "align_cc": 0.761,
-   "edge_flat": 0.063
+   "edge_flat": 0.027
   },
   "15_204": {
    "title": "Sarlacc Tentacles",
@@ -6751,15 +6751,15 @@
     441
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Scum And Villainy (Reflections Gold)",
    "original_file": "RG-C1-Scum-And-Villainy.jpg",
@@ -6767,7 +6767,7 @@
    "orig": "original/orig/15_205.png",
    "x4": null,
    "align_cc": 0.0,
-   "edge_flat": 0.182
+   "edge_flat": 0.082
   },
   "15_206": {
    "title": "Scum And Villainy & Information Exchange",
@@ -6817,15 +6817,15 @@
     445
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Search And Destroy (Reflections Gold)",
    "original_file": "RG-C1-Search-And-Destroy.jpg",
@@ -6833,7 +6833,7 @@
    "orig": "original/orig/15_207.png",
    "x4": null,
    "align_cc": 0.624,
-   "edge_flat": 0.016
+   "edge_flat": 0.024
   },
   "15_208": {
    "title": "Security Precautions",
@@ -6850,15 +6850,15 @@
     443
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Security Precautions (Reflections Gold)",
    "original_file": "RG-C1-Security-Precautions.jpg",
@@ -6866,7 +6866,7 @@
    "orig": "original/orig/15_208.png",
    "x4": null,
    "align_cc": 0.678,
-   "edge_flat": 0.024
+   "edge_flat": 0.048
   },
   "15_209": {
    "title": "Tatooine Resale Operations",
@@ -7048,15 +7048,15 @@
     1356
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Weapon Malfunction (Reflections Gold)",
    "original_file": "RG-C1-Weapon-Malfunction.jpg",
@@ -7064,7 +7064,7 @@
    "orig": "original/orig/15_214.png",
    "x4": null,
    "align_cc": 0.655,
-   "edge_flat": 0.056
+   "edge_flat": 0.013
   },
   "15_215": {
    "title": "Well Guarded & Security Precautions",
@@ -7114,15 +7114,15 @@
     445
    ],
    "box": [
-    41,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Effect|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Well-Earned Command (Reflections Gold)",
    "original_file": "RG-C1-Well-Earned-Command.jpg",
@@ -7130,7 +7130,7 @@
    "orig": "original/orig/15_216.png",
    "x4": null,
    "align_cc": 0.848,
-   "edge_flat": 0.003
+   "edge_flat": 0.001
   },
   "15_217": {
    "title": "Worry",
@@ -7246,15 +7246,15 @@
     444
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Atmospheric Assault (Reflections Gold)",
    "original_file": "RG-C1-Atmospheric-Assault.jpg",
@@ -7262,7 +7262,7 @@
    "orig": "original/orig/15_220.png",
    "x4": null,
    "align_cc": 0.472,
-   "edge_flat": 0.046
+   "edge_flat": 0.116
   },
   "15_221": {
    "title": "Begin Retreat!",
@@ -7345,15 +7345,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Blow Parried (Reflections Gold)",
    "original_file": "RG-C1-Blow-Parried.jpg",
@@ -7361,7 +7361,7 @@
    "orig": "original/orig/15_223.png",
    "x4": null,
    "align_cc": 0.428,
-   "edge_flat": 0.021
+   "edge_flat": 0.014
   },
   "15_224": {
    "title": "Boba Fett? Where?!",
@@ -7543,15 +7543,15 @@
     441
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Counter Surprise Assault (Reflections Gold)",
    "original_file": "RG-C1-Counter-Surprise-Assault.jpg",
@@ -7559,7 +7559,7 @@
    "orig": "original/orig/15_229.png",
    "x4": null,
    "align_cc": 0.732,
-   "edge_flat": 0.001
+   "edge_flat": 0.009
   },
   "15_230": {
    "title": "Dark Collaboration & Charming To The Last",
@@ -7609,15 +7609,15 @@
     442
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Dark Jedi Presence (Reflections Gold)",
    "original_file": "RG-C1-Dark-Jedi-Presence.jpg",
@@ -7675,15 +7675,15 @@
     438
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Dark Maneuvers (Reflections Gold)",
    "original_file": "RG-C1-Dark-Maneuvers.jpg",
@@ -7691,7 +7691,7 @@
    "orig": "original/orig/15_233.png",
    "x4": null,
    "align_cc": 0.645,
-   "edge_flat": 0.609
+   "edge_flat": 0.171
   },
   "15_234": {
    "title": "Dioxis",
@@ -7708,15 +7708,15 @@
     440
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Dioxis (Reflections Gold)",
    "original_file": "RG-C1-Dioxis.jpg",
@@ -7724,7 +7724,7 @@
    "orig": "original/orig/15_234.png",
    "x4": null,
    "align_cc": 0.78,
-   "edge_flat": 0.002
+   "edge_flat": 0.0
   },
   "15_235": {
    "title": "Dioxis & They're Still Coming Through!",
@@ -7939,15 +7939,15 @@
     445
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Force Lightning (Reflections Gold)",
    "original_file": "RG-C1-Force-Lightning.jpg",
@@ -7955,7 +7955,7 @@
    "orig": "original/orig/15_241.png",
    "x4": null,
    "align_cc": 0.613,
-   "edge_flat": 0.021
+   "edge_flat": 0.007
   },
   "15_242": {
    "title": "Force Lightning & Rise, My Friend",
@@ -8071,15 +8071,15 @@
     440
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Hit Racer (Reflections Gold)",
    "original_file": "RG-C1-Hit-Racer.jpg",
@@ -8087,7 +8087,7 @@
    "orig": "original/orig/15_245.png",
    "x4": null,
    "align_cc": 0.92,
-   "edge_flat": 0.061
+   "edge_flat": 0.014
   },
   "15_246": {
    "title": "I Didn't Mean To...",
@@ -8203,15 +8203,15 @@
     445
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Imperial Command (Reflections Gold)",
    "original_file": "RG-C1-Imperial-Command.jpg",
@@ -8219,7 +8219,7 @@
    "orig": "original/orig/15_249.png",
    "x4": null,
    "align_cc": 0.407,
-   "edge_flat": 0.208
+   "edge_flat": 0.048
   },
   "15_250": {
    "title": "Imperial Command & It's An Older Code",
@@ -8335,15 +8335,15 @@
     440
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Imperial Supply (Reflections Gold)",
    "original_file": "RG-C1-Imperial-Supply.jpg",
@@ -8351,7 +8351,7 @@
    "orig": "original/orig/15_253.png",
    "x4": null,
    "align_cc": 0.592,
-   "edge_flat": 0.104
+   "edge_flat": 0.074
   },
   "15_254": {
    "title": "In The Pits",
@@ -8500,15 +8500,15 @@
     441
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Jabba's Through With You (Reflections Gold)",
    "original_file": "RG-C1-Jabba-s-Through-With-You.jpg",
@@ -8516,7 +8516,7 @@
    "orig": "original/orig/15_258.png",
    "x4": null,
    "align_cc": 0.686,
-   "edge_flat": 0.016
+   "edge_flat": 0.055
   },
   "15_259": {
    "title": "Jabba's Through With You & Nevar Yalnal",
@@ -8566,15 +8566,15 @@
     1353
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Local Trouble (Reflections Gold)",
    "original_file": "RG-C1-Local-Trouble.jpg",
@@ -8582,7 +8582,7 @@
    "orig": "original/orig/15_260.png",
    "x4": null,
    "align_cc": 0.748,
-   "edge_flat": 0.071
+   "edge_flat": 0.08
   },
   "15_261": {
    "title": "Locked Door",
@@ -8731,15 +8731,15 @@
     444
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "None Shall Pass (Reflections Gold)",
    "original_file": "RG-C1-None-Shall-Pass.jpg",
@@ -8747,7 +8747,7 @@
    "orig": "original/orig/15_265.png",
    "x4": null,
    "align_cc": 0.462,
-   "edge_flat": 0.063
+   "edge_flat": 0.017
   },
   "15_266": {
    "title": "Oo-ta Goo-ta Solo?",
@@ -8764,15 +8764,15 @@
     446
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Oo-ta Goo-ta Solo? (Reflections Gold)",
    "original_file": "RG-C1-Oo-ta-Goo-ta-Solo.jpg",
@@ -8780,7 +8780,7 @@
    "orig": "original/orig/15_266.png",
    "x4": null,
    "align_cc": 0.203,
-   "edge_flat": 0.022
+   "edge_flat": 0.066
   },
   "15_267": {
    "title": "Operational As Planned & Wounded Warrior",
@@ -8830,15 +8830,15 @@
     440
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Our First Catch Of The Day (Reflections Gold)",
    "original_file": "RG-C1-Our-First-Catch-Of-The-Day.jpg",
@@ -8846,7 +8846,7 @@
    "orig": "original/orig/15_268.png",
    "x4": null,
    "align_cc": 0.671,
-   "edge_flat": 0.174
+   "edge_flat": 0.061
   },
   "15_269": {
    "title": "Overwhelmed & A Dark Time For The Rebellion",
@@ -8896,15 +8896,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Pit Crews (Reflections Gold)",
    "original_file": "RG-C1-Pit-Crews.jpg",
@@ -8912,7 +8912,7 @@
    "orig": "original/orig/15_270.png",
    "x4": null,
    "align_cc": 0.89,
-   "edge_flat": 0.004
+   "edge_flat": 0.036
   },
   "15_271": {
    "title": "Podracer Collision",
@@ -8929,15 +8929,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Podracer Collision (Reflections Gold)",
    "original_file": "RG-C1-Podracer-Collision.jpg",
@@ -8945,7 +8945,7 @@
    "orig": "original/orig/15_271.png",
    "x4": null,
    "align_cc": 0.921,
-   "edge_flat": 0.0
+   "edge_flat": 0.009
   },
   "15_272": {
    "title": "Podracer Collision & Hit Racer",
@@ -9028,15 +9028,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Projective Telepathy (Reflections Gold)",
    "original_file": "RG-C1-Projective-Telepathy.jpg",
@@ -9044,7 +9044,7 @@
    "orig": "original/orig/15_274.png",
    "x4": null,
    "align_cc": 0.511,
-   "edge_flat": 0.209
+   "edge_flat": 0.089
   },
   "15_275": {
    "title": "Put All Sections On Alert & Full Scale Alert",
@@ -9127,15 +9127,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Rolling, Rolling, Rolling (Reflections Gold)",
    "original_file": "RG-C1-Rolling-Rolling-Rolling.jpg",
@@ -9143,7 +9143,7 @@
    "orig": "original/orig/15_277.png",
    "x4": null,
    "align_cc": 0.907,
-   "edge_flat": 0.134
+   "edge_flat": 0.06
   },
   "15_278": {
    "title": "Security Sweep",
@@ -9193,15 +9193,15 @@
     441
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Short Range Fighters (Reflections Gold)",
    "original_file": "RG-C1-Short-Range-Fighters.jpg",
@@ -9209,7 +9209,7 @@
    "orig": "original/orig/15_279.png",
    "x4": null,
    "align_cc": 0.627,
-   "edge_flat": 0.191
+   "edge_flat": 0.068
   },
   "15_280": {
    "title": "Shut Him Up Or Shut Him Down & Voyeur",
@@ -9259,15 +9259,15 @@
     441
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Sniper (Reflections Gold)",
    "original_file": "RG-C1-Sniper.jpg",
@@ -9275,7 +9275,7 @@
    "orig": "original/orig/15_281.png",
    "x4": null,
    "align_cc": 0.687,
-   "edge_flat": 0.0
+   "edge_flat": 0.004
   },
   "15_282": {
    "title": "Something Hit Us! & Why Didn't You Tell Me?",
@@ -9358,15 +9358,15 @@
     440
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Squabbling Delegates (Reflections Gold)",
    "original_file": "RG-C1-Squabbling-Delegates.jpg",
@@ -9374,7 +9374,7 @@
    "orig": "original/orig/15_284.png",
    "x4": null,
    "align_cc": 0.796,
-   "edge_flat": 0.161
+   "edge_flat": 0.005
   },
   "15_285": {
    "title": "Start Your Engines! & Pit Crews",
@@ -9457,15 +9457,15 @@
     445
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Tactical Support (Reflections Gold)",
    "original_file": "RG-C1-Tactical-Support.jpg",
@@ -9473,7 +9473,7 @@
    "orig": "original/orig/15_287.png",
    "x4": null,
    "align_cc": 0.663,
-   "edge_flat": 0.111
+   "edge_flat": 0.025
   },
   "15_288": {
    "title": "Tallon Roll",
@@ -9490,15 +9490,15 @@
     445
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Tallon Roll (Reflections Gold)",
    "original_file": "RG-C1-Tallon-Roll.jpg",
@@ -9506,7 +9506,7 @@
    "orig": "original/orig/15_288.png",
    "x4": null,
    "align_cc": 0.423,
-   "edge_flat": 0.28
+   "edge_flat": 0.156
   },
   "15_289": {
    "title": "The Circle Is Now Complete",
@@ -9523,15 +9523,15 @@
     444
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "The Circle Is Now Complete (Reflections Gold)",
    "original_file": "RG-C1-The-Circle-Is-Now-Complete.jpg",
@@ -9539,7 +9539,7 @@
    "orig": "original/orig/15_289.png",
    "x4": null,
    "align_cc": 0.822,
-   "edge_flat": 0.055
+   "edge_flat": 0.039
   },
   "15_290": {
    "title": "The Circle Is Now Complete & Vader's Obsession",
@@ -9589,15 +9589,15 @@
     440
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "They're Still Coming Through (Reflections Gold)",
    "original_file": "RG-C1-They-re-Still-Coming-Through.jpg",
@@ -9605,7 +9605,7 @@
    "orig": "original/orig/15_291.png",
    "x4": null,
    "align_cc": 0.658,
-   "edge_flat": 0.046
+   "edge_flat": 0.027
   },
   "15_292": {
    "title": "Those Rebels Won't Escape Us",
@@ -9622,15 +9622,15 @@
     444
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Those Rebels Won't Escape Us (Reflections Gold)",
    "original_file": "RG-C1-Those-Rebels-Won-t-Escape-Us.jpg",
@@ -9638,7 +9638,7 @@
    "orig": "original/orig/15_292.png",
    "x4": null,
    "align_cc": 0.528,
-   "edge_flat": 0.0
+   "edge_flat": 0.016
   },
   "15_293": {
    "title": "Through The Corridor",
@@ -9655,15 +9655,15 @@
     440
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Through The Corridor (Reflections Gold)",
    "original_file": "RG-C1-Through-The-Corridor.jpg",
@@ -9671,7 +9671,7 @@
    "orig": "original/orig/15_293.png",
    "x4": null,
    "align_cc": 0.844,
-   "edge_flat": 0.094
+   "edge_flat": 0.035
   },
   "15_294": {
    "title": "Trade Federation Tactics & We're Hit Artoo",
@@ -9754,15 +9754,15 @@
     444
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Trap Door (Reflections Gold)",
    "original_file": "RG-C1-Trap-Door.jpg",
@@ -9770,7 +9770,7 @@
    "orig": "original/orig/15_296.png",
    "x4": null,
    "align_cc": 0.707,
-   "edge_flat": 0.023
+   "edge_flat": 0.027
   },
   "15_297": {
    "title": "Trooper Assault & Tactical Support",
@@ -9853,15 +9853,15 @@
     445
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Uncertain Is The Future (Reflections Gold)",
    "original_file": "RG-C1-Uncertain-Is-The-Future.jpg",
@@ -9869,7 +9869,7 @@
    "orig": "original/orig/15_299.png",
    "x4": null,
    "align_cc": 0.728,
-   "edge_flat": 0.121
+   "edge_flat": 0.011
   },
   "15_300": {
    "title": "Unexpected Interruption",
@@ -9886,15 +9886,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Unexpected Interruption (Reflections Gold)",
    "original_file": "RG-C1-Unexpected-Interruption.jpg",
@@ -9902,7 +9902,7 @@
    "orig": "original/orig/15_300.png",
    "x4": null,
    "align_cc": 0.628,
-   "edge_flat": 0.021
+   "edge_flat": 0.024
   },
   "15_301": {
    "title": "Vote Now!",
@@ -9919,15 +9919,15 @@
     443
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "Vote Now! (Dark) (Reflections Gold)",
    "original_file": "RG-C1-Vote-Now-Dark.jpg",
@@ -9935,7 +9935,7 @@
    "orig": "original/orig/15_301.png",
    "x4": null,
    "align_cc": 0.515,
-   "edge_flat": 0.068
+   "edge_flat": 0.061
   },
   "15_302": {
    "title": "Watto's Chance Cube & You Swindled Me!",
@@ -9985,15 +9985,15 @@
     445
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "We Have A Prisoner (Reflections Gold)",
    "original_file": "RG-C1-We-Have-A-Prisoner.jpg",
@@ -10001,7 +10001,7 @@
    "orig": "original/orig/15_303.png",
    "x4": null,
    "align_cc": 0.918,
-   "edge_flat": 0.192
+   "edge_flat": 0.018
   },
   "15_304": {
    "title": "We Must Accelerate Our Plans & Vote Now!",
@@ -10117,15 +10117,15 @@
     442
    ],
    "box": [
-    40,
-    151,
-    999,
-    507
+    62,
+    64,
+    914,
+    635
    ],
    "box_space": "Remastered render space after straightening",
    "family": "Dark|Interrupt|land",
    "inpainted_frame_fraction": null,
-   "window_from": "family variance",
+   "window_from": "CardMaker rg template art box",
    "shaped": false,
    "original_page": "You Are Beaten (Reflections Gold)",
    "original_file": "RG-C1-You-Are-Beaten.jpg",
@@ -10133,7 +10133,7 @@
    "orig": "original/orig/15_307.png",
    "x4": null,
    "align_cc": 0.75,
-   "edge_flat": 0.047
+   "edge_flat": 0.02
   },
   "15_308": {
    "title": "You Will Meet Your Destiny",
